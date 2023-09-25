@@ -7,7 +7,7 @@
  * @a: 2d array of int type
  * @size: size of the array (square)
  *
- * Return:(void)
+ * Return: void
  */
 void print_diagsums(int *a, int size)
 {
