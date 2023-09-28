@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * sqrt_a - function that returns the natural square root 
+ * sqrt_a - function that returns the natural square root
  * of a number
  *
  * @a: function parameter
