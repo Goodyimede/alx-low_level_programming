@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - a function that prints numbers
- * @separator: string to be printed btw numbers 
+ * @separator: string to be printed btw numbers
  * @n: number of integers to be printed
  * Return: void
  */
